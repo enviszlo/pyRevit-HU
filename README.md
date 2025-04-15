@@ -88,8 +88,6 @@ pyRevit helps you quickly sketch out your automation and addon ideas, in whichev
 
 # Getting Started
 
-Hello!
-
 ## Get Started Using pyRevit
 
 [Install pyRevit](https://www.notion.so/Install-pyRevit-98ca4359920a42c3af5c12a7c99a196d)
