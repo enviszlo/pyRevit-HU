@@ -4,6 +4,7 @@ title:
   fr_fr: Paramètres
   es_es: 'Configuración'
   de_de: Einstellungen
+  hu_hu: Beállítások
 tooltip:
   ru: >-
     Показывает окно настроек pyRevit. Вы можете настраивать как pyRevit загружает и устанавливает некоторые параметры.
@@ -37,4 +38,10 @@ tooltip:
     Shift-Click:
 
     Zeigt die Konfigurationsdatei im Explorer an. 
+  hu_hu: >-
+    Megnyitja a pyRevit beállítási ablakát. Itt testreszabható a betöltés módja és néhány alapvető paraméter is beállítható.
+
+    Shift-Click:
+
+    Konfigurációs fájl megnyitása az Intézőben.
 context: zero-doc
